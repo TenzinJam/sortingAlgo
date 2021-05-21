@@ -31,6 +31,7 @@ function mergeHelper(arr1, arr2){
     arr2Index++
   }
   return array
+  console.log("hey")
 }
 
 console.log(mergeSort([5,6,-3,4,234,45,12,65,234,5,65,5]))
